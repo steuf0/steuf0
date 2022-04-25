@@ -10,7 +10,8 @@
    <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
    </div>
    
-   
+   <br/>
+   <br/>
 
 - 🔭 Front-End developer at Paytime Fintech
 - 🌱 Currently learning Angular 12/13
