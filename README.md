@@ -14,5 +14,5 @@
    <br/>
 
 - 🔭 Front-End developer at Paytime Fintech
-- 🌱 Currently learning Angular 12/13
-- 📫 How to reach me: sthefanog@gmail.com
+- 🌱 Currently developing in Angular 12/13
+- 📫 sthefanog@gmail.com
