@@ -3,7 +3,6 @@
    
 - 🔭 Front-End developer at Paytime Fintech
 - 🌱 Currently developing in Angular 12/13
-- 📫 sthefanog@gmail.com
 <br/>
 
   <div>
