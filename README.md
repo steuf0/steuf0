@@ -1,7 +1,7 @@
  <div></div>   
  <br/>
    
-- 🔭 Front-End developer 
+- 🔭 Front-end developer 
 - 🌱 Currently developing in Angular 12+
 <br/>
 
