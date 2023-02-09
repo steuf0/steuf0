@@ -1,8 +1,8 @@
  <div></div>   
  <br/>
    
-- 🔭 Front-End developer @ Paytime Fintech
-- 🌱 Currently developing in Angular 12
+- 🔭 Front-End developer 
+- 🌱 Currently developing in Angular 12+
 <br/>
 
   <div>
