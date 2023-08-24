@@ -2,7 +2,7 @@
  <br/>
    
 - 🔭 Front-end developer 
-- 🌱 Currently developing in Angular 12+
+- 🌱 Currently developing professionally in Vue.js
 <br/>
 
   <div>
