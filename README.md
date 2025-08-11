@@ -1,8 +1,7 @@
  <div></div>   
  <br/>
    
-- 🔭 Front-end developer 
-- 🌱 Currently developing professionally in Vue.js
+- 🔭 Fullstack developer (3y+) 
 <br/>
 
   <div>
