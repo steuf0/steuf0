@@ -1,5 +1,7 @@
  <br/>
+ <p>
 - 🔭 Fullstack developer (5y+) 
+  </p>
 <br/>
 
   <div display="flex" style="display: flex;">
